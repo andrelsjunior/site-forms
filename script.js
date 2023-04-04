@@ -1,4 +1,4 @@
-$('#webhookform').on('click', function(event) {
+$('#submitform').on('click', function(event) {
     event.preventDefault();
 
     // Substitua isso pela URL do seu webhook
